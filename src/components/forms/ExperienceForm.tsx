@@ -1,6 +1,6 @@
 import React from "react";
 import { Briefcase, Plus } from "lucide-react";
-import { Experience } from "../../types/resume";
+import type { Experience } from "../../types/resume";
 import { ExperienceItem } from "./ExperienceItem";
 
 interface ExperienceFormProps {
